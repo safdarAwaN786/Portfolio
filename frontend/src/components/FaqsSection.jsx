@@ -13,7 +13,7 @@ export default function FaqsSection() {
     return (
 
         <div id="faqs" className=" my-5 sectionBox bg-black px-sm-4 px-md-5 px-lg-5 px-1 ">
-            <h3 className="text-center lightGreenColor">FAQ</h3>
+            <h3 className="text-center lightGreenColor">FAQ's</h3>
             <h1 className="text-center text-light mb-5">HAVE ANY QUESTIONS?</h1>
             <div className="mx-lg-5 px-lg-5">
                 <div className="px-lg-5">
