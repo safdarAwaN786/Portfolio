@@ -11,7 +11,9 @@ export default function ContactsSection() {
 
     useEffect(()=>{
             console.log(messageData);
-            axios.post("/send-message", messageData);
+            if (messageData) {
+                axios.post("/send-message", messageData);               
+            }
     },[messageData])
 
     const handleSubmit = (event) => {
