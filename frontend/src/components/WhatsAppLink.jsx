@@ -13,8 +13,8 @@ export default function WhatsAppLink(){
 
 
     return (
-        <div className="whatsappLinkBox animate__animated animate__bounceInDown p-lg-3 p-md-3 p-2 " onClick={openWhatsapp}>
-            <ImWhatsapp className="text-light fs-1" />
+        <div className="whatsappLinkBox animate__animated animate__bounceInDown  p-sm-3 " onClick={openWhatsapp}>
+            <ImWhatsapp className="text-light whatsappIcon" />
         </div>
     )
 }

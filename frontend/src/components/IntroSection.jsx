@@ -12,7 +12,7 @@ export default function IntroSection() {
 
 
     return (
-        <div id="home" className="px-3  sectionBox bg-black  d-flex flex-column  text-light">
+        <div id="home" className="px-3  introBox bg-black  d-flex flex-column  text-light">
 
             <div className=" pt-5 mx-auto">
                 <img className="profileimg" src={Profile} />
