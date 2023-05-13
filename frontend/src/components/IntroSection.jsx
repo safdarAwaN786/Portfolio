@@ -21,7 +21,7 @@ export default function IntroSection() {
                
                 <h1 className="d-inline">I'm </h1>
                 <Typed className="fs-1 lightGreenColor"
-                    strings={["Safdar Awan.", "Web Developer.", "MERN-stack Developer.", "Freelancer."]}
+                    strings={["Safdar Awan.", "Web Developer.", "MERN Developer.", "Freelancer."]}
                     typeSpeed={100}
                     backSpeed={60}
                     loop
