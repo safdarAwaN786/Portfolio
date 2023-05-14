@@ -21,10 +21,10 @@ export default function InfoSection() {
             <h3 className="text-center lightGreenColor">About Me</h3>
             <h1 className="text-center mb-5">WELCOME TO MY SITE</h1>
             <div className="row mt-5 pt-3">
-                <div className="col-lg-5 col-md-5 col-12 bg-black  p-3 d-flex justify-content-center borderRadius">
+                <div className="col-lg-5 col-md-6 col-12 bg-black  p-3 d-flex justify-content-center borderRadius">
                     <img className="infoImage borderRadius" src={FullImage} />
                 </div>
-                <div className="col-lg-7 col-md-7 col-12 py-4 px-md-4 px-lg-5 px-3">
+                <div className="col-lg-7 col-md-6 col-12 py-4 px-md-4 px-lg-5 px-3">
                     <h4>I'M PROFESIONAL WEB DESIGNER AND EDEVELOPER.</h4>
                     <ul className="pt-3 list-unstyled">
                         <li className="fontSizeChange py-2"> <span className="infoProperty"><b>Name</b></span> <b className="me-2">: </b>  Safdar Awan </li>
