@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2981a07.css",
-    "main.js": "/static/js/main.6d57f427.js",
+    "main.js": "/static/js/main.43e5810e.js",
     "static/media/Avator.png": "/static/media/Avator.976a5692f860cb814657.png",
     "static/media/Profile.png": "/static/media/Profile.9430301032bea3b4cc50.png",
     "static/media/Web Developer CV.png": "/static/media/Web Developer CV.9525b8cfafd161818af7.png",
@@ -16,10 +16,10 @@
     "static/media/htmlLogo.jpg": "/static/media/htmlLogo.b757b1105a63ab582275.jpg",
     "index.html": "/index.html",
     "main.d2981a07.css.map": "/static/css/main.d2981a07.css.map",
-    "main.6d57f427.js.map": "/static/js/main.6d57f427.js.map"
+    "main.43e5810e.js.map": "/static/js/main.43e5810e.js.map"
   },
   "entrypoints": [
     "static/css/main.d2981a07.css",
-    "static/js/main.6d57f427.js"
+    "static/js/main.43e5810e.js"
   ]
 }
