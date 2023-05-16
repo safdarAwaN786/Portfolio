@@ -10,7 +10,7 @@ export default function ContactsSection() {
     const [messageData, setMessageData] = useState(null);
 
     useEffect(()=>{
-            console.log(messageData);
+         
             if (messageData) {
                 axios.post("/send-message", messageData);               
             }
