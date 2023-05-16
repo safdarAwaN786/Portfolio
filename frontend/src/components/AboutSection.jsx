@@ -1,6 +1,6 @@
 import React from "react";
 import FullImage from "../images/FullImage.jpg";
-import CV from "../images/Web Developer CV.png";
+import CV from "../images/M Safdar CV.pdf";
 
 
 
@@ -10,7 +10,7 @@ export default function InfoSection() {
     const downloadCV = () => {
         const link = document.createElement('a');
         link.href = CV;
-        link.download = 'Web Developer CV.png';
+        link.download = 'M Safdar CV.pdf';
         link.click();
     }
 
