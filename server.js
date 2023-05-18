@@ -18,7 +18,7 @@ app.post("/send-message", (req, res) => {
     console.log(req.body);
 
     const msg = {
-        to: "safdarstudent@gmail.com", // replace with recipient email address
+        to: "iamsafdarawan@gmail.com", // replace with recipient email address
         from: "developersafdar@gmail.com", // replace with your email address
         subject: "Client Message",
         html: `

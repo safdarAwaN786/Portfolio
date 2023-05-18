@@ -15,7 +15,7 @@ export default function InfoSection() {
     }
 
     return (
-        <div id="about"  className="my-5 sectionBox px-sm-4 px-md-5 px-lg-5 px-3">
+        <div id="about" className="my-5 sectionBox px-sm-4 px-md-5 px-lg-5 px-3">
 
 
             <h3 className="text-center lightGreenColor">About Me</h3>
