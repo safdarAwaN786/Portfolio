@@ -66,7 +66,7 @@ export default function ContactsSection() {
                         <FaGlobe className="fs-1 mx-auto lightGreenColor" />
                         <div className="p-lg-2 p-md-2 p-0">
                             <h3 className="text-center mb-0">Website</h3>
-                            <p className="text-center fs-5">https://red-fierce-piranha.cyclic.app/</p>
+                            <p className="text-center fs-5">https://iamsafdar.onrender.com/</p>
                         </div>
                     </div>
                 </div>
