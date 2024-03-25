@@ -49,7 +49,7 @@ export default function ContactsSection() {
                         <MdEmail className="fs-1 mx-auto lightGreenColor" />
                         <div className="p-lg-2 p-md-2 p-0">
                             <h3 className="text-center mb-0">Email</h3>
-                            <p className="text-center fs-5">iamsafdarawan@gmail.com</p>
+                            <p className="text-center fs-5">iamsafdarawan@ gmail.com</p>
                         </div>
                     </div>
                 </div>
